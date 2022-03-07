@@ -1,0 +1,27 @@
+.container{
+    height: 350px;
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 150px auto;
+    background-color: gainsboro;
+}
+.heading{
+    background-color: black;
+    padding: 10px 10px;
+    margin-top: 23px;
+    margin-left: 10px;
+    width: 25.5rem;
+}
+.calc{
+    color: white;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    font-size: x-large;
+}
+.number{
+    margin-top: 10px;
+    margin-left: 10px;
+padding: 20px 131px;
+}
